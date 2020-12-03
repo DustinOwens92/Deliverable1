@@ -1,0 +1,12 @@
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.csprojAssemblyReference.cache
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfoInputs.cache
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfo.cs
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.deps.json
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.json
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.dev.json
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.pdb
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.pdb
+/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.genruntimeconfig.cache
