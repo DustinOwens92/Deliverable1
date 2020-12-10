@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1.csproj": {}
+    "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1/Deliverable1.csproj": {}
   },
   "projects": {
-    "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1.csproj": {
+    "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1/Deliverable1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1.csproj",
+        "projectUniqueName": "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1/Deliverable1.csproj",
         "projectName": "Deliverable1",
-        "projectPath": "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1.csproj",
+        "projectPath": "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1/Deliverable1.csproj",
         "packagesPath": "/Users/dustinowens/.nuget/packages/",
-        "outputPath": "/Users/dustinowens/Projects/Deliverable1/Deliverable1/obj/",
+        "outputPath": "/Users/dustinowens/Projects/Deliverable1/Deliverable1/Deliverable1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dustinowens/.config/NuGet/NuGet.Config"
